@@ -43,6 +43,7 @@ contract CounterTest is Test
   }
 }
 ```
+For this PoC to work you need to remove `onlyAdmin` in `configureToken`.
 
 The respective results 
 ```
